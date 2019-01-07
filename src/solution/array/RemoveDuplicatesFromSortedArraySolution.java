@@ -1,4 +1,4 @@
-package solution;
+package solution.array;
 /**
  * 第一次并没有注意到数组去重
  * 只是返回了重复数字的个数

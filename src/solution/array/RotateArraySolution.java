@@ -1,4 +1,4 @@
-package solution;
+package solution.array;
 /**
  *  通过k步，翻转数组(LeetCode 提交的时候提示Time Limit Exceeded)
  *  查询该问题存在的原因可能是算法不够优化

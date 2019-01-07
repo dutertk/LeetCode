@@ -1,4 +1,4 @@
-package solution;
+package solution.array;
 /**
  * 
  * 插入排序的简单实现

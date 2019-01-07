@@ -1,4 +1,4 @@
-package solution;
+package solution.array;
 
 public class RotateArraySolutionThree {
 	public void rotate(int[] nums, int k) {

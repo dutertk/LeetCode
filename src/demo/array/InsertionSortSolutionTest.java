@@ -1,6 +1,6 @@
-package demo;
+package demo.array;
 
-import solution.InsertionSortSolution;
+import solution.array.InsertionSortSolution;
 
 public class InsertionSortSolutionTest {
 	public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package demo;
+package demo.array;
 
-import solution.RotateArraySolutionTwo;
+import solution.array.RotateArraySolutionTwo;
 
 public class RotateArraySolutionTestTwo {
 	public static void main (String[] args) {

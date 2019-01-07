@@ -1,6 +1,6 @@
-package demo;
+package demo.array;
 
-import solution.RemoveElementSolution;
+import solution.array.RemoveElementSolution;
 
 public class RemoveElementSolutionTest {
 	public static void main(String[] args) {

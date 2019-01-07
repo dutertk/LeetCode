@@ -1,6 +1,6 @@
-package demo;
+package demo.array;
 
-import solution.RemoveDuplicatesFromSortedArraySolution;
+import solution.array.RemoveDuplicatesFromSortedArraySolution;
 
 public class RemoveDuplicatesFromSortedArraySolutionTest {
 	public static void main(String[] args) {

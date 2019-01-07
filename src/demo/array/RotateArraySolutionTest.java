@@ -1,9 +1,5 @@
-package demo;
-/**
- * 通过k步，翻转数组
- * 
- */
-import solution.RotateArraySolution;
+package demo.array;
+import solution.array.RotateArraySolution;
 
 public class RotateArraySolutionTest {
 	public static void main(String[] args) {

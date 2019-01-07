@@ -1,6 +1,6 @@
-package demo;
+package demo.array;
 
-import solution.AddSumSolution;
+import solution.array.AddSumSolution;
 
 public class AddSumSolutionTest {
 	public static void main(String args[]) {

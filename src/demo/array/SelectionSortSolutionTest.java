@@ -1,6 +1,6 @@
-package demo;
+package demo.array;
 
-import solution.SelectionSortSolution;
+import solution.array.SelectionSortSolution;
 
 public class SelectionSortSolutionTest {
 	public static void main(String[] args) {
