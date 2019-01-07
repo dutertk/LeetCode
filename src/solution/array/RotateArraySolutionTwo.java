@@ -1,4 +1,4 @@
-package solution;
+package solution.array;
 /**
  * 第二个方法，参考了其他的博客，
  * 这种方法我应该能想到的

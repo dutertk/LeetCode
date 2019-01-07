@@ -1,4 +1,4 @@
-package solution;
+package solution.array;
 /**
  * 选择排序的java实现
  * 从数组中找到最小的那个数的索引，然后与第一个交换
